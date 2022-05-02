@@ -1,0 +1,329 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "additionalFiles": [],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -472107508435400,
+    "name": "1.12.2 Hide And Seek",
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "version": {
+            "id": 11000372,
+            "name": "1.4",
+            "metadata": {
+              "sha1": "d0483ac68cbeea22d6a2c46984c4cc7de4d3ce42",
+              "size": 193898,
+              "path": "mods/tlskincape1.12.2-1.4.jar",
+              "url": "/mods/10000020/11000372/tlskincape1.12.2-1.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "OptiFine",
+          "version": {
+            "id": 11001818,
+            "name": "OptiFine-1.12.2_HD_U_G5",
+            "metadata": {
+              "sha1": "db971767e460269f2317bb5df57d8f522be65e2c",
+              "size": 2457427,
+              "path": "mods/OptiFine-1.12.2_HD_U_G5.jar",
+              "url": "/mods/9999999/11001818/OptiFine-1.12.2_HD_U_G5.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 280294,
+          "name": "FPS Reducer",
+          "version": {
+            "id": 3362160,
+            "name": "FpsReducer-mc1.12.2-1.20",
+            "metadata": {
+              "sha1": "50c323de01f2235d351bf5417da6d4ef494b12e6",
+              "size": 79700,
+              "path": "mods/FpsReducer-mc1.12.2-1.20.jar",
+              "url": "/mods/280294/3362160/FpsReducer-mc1.12.2-1.20.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 308702,
+              "dependencyType": "optional"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 267602,
+          "name": "ConnectedTexturesMod",
+          "version": {
+            "id": 2915363,
+            "name": "CTM - MC1.12.2-1.0.2.31",
+            "metadata": {
+              "sha1": "892e0788531269bfa2f356e4e12825e19d4e5412",
+              "size": 199045,
+              "path": "mods/CTM-MC1.12.2-1.0.2.31.jar",
+              "url": "/mods/267602/2915363/CTM-MC1.12.2-1.0.2.31.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 235279,
+          "name": "Chisel",
+          "version": {
+            "id": 2915375,
+            "name": " MC1.12.2-1.0.2.45",
+            "metadata": {
+              "sha1": "d378cee9195841ea78bb9800f543d718ef2c60ef",
+              "size": 4755282,
+              "path": "mods/Chisel-MC1.12.2-1.0.2.45.jar",
+              "url": "/mods/235279/2915375/Chisel-MC1.12.2-1.0.2.45.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 267602,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 243479,
+          "name": "MacroKey Keybinding",
+          "version": {
+            "id": 2670847,
+            "name": "[1.12.x] MacroKey 2.0",
+            "metadata": {
+              "sha1": "db52cdca91da60f40f9296aa97d092a1d5ada7fd",
+              "size": 87273,
+              "path": "mods/MacroKey Keybinding-1.12-2.0.3.202.jar",
+              "url": "/mods/243479/2670847/MacroKey%20Keybinding-1.12-2.0.3.202.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 60089,
+          "name": "Mouse Tweaks",
+          "version": {
+            "id": 3359843,
+            "name": "[1.12.2]  2.10.1",
+            "metadata": {
+              "sha1": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d",
+              "size": 80528,
+              "path": "mods/MouseTweaks-2.10.1-mc1.12.2.jar",
+              "url": "/mods/60089/3359843/MouseTweaks-2.10.1-mc1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 223094,
+          "name": "Inventory Tweaks",
+          "version": {
+            "id": 2923460,
+            "name": "1.64+dev.151",
+            "metadata": {
+              "sha1": "3ba1e59a5109f3e94a4a0170877006b72fa77b1e",
+              "size": 286144,
+              "path": "mods/InventoryTweaks-1.64+dev.151.jar",
+              "url": "/mods/223094/2923460/InventoryTweaks-1.64%252Bdev.151.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 59652,
+          "name": "SecretRoomsMod",
+          "version": {
+            "id": 2561617,
+            "name": "secretroomsmod-1.12.2-5.6.4",
+            "metadata": {
+              "sha1": "2a85061dbfe548b4c20ee495ae5835fadf8d9dfd",
+              "size": 343453,
+              "path": "mods/secretroomsmod-1.12.2-5.6.4.jar",
+              "url": "/mods/59652/2561617/secretroomsmod-1.12.2-5.6.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 229876,
+          "name": "BetterFps",
+          "version": {
+            "id": 2483393,
+            "name": "v1.4.8",
+            "metadata": {
+              "sha1": "245235d5c67daff00ee658ee1f88ae8c3e4584b8",
+              "size": 155196,
+              "path": "mods/BetterFps-1.4.8.jar",
+              "url": "/mods/229876/2483393/BetterFps-1.4.8.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 378646,
+          "name": "Macaw's Doors",
+          "version": {
+            "id": 3340797,
+            "name": "[1.0.3  1.12.2]",
+            "metadata": {
+              "sha1": "005f81af71b0ba953e2ff25f736958ae3358f0a0",
+              "size": 552150,
+              "path": "mods/mcw-doors-1.0.3-mc1.12.2.jar",
+              "url": "/mods/378646/3340797/mcw-doors-1.0.3-mc1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 400933,
+          "name": "Macaw's Trapdoors",
+          "version": {
+            "id": 3488758,
+            "name": "[1.0.3  1.12.2]",
+            "metadata": {
+              "sha1": "f77bde3ec90cb3a501b10595c8959d4e57f98105",
+              "size": 233740,
+              "path": "mods/mcw-trapdoors-1.0.3-mc1.12.2.jar",
+              "url": "/mods/400933/3488758/mcw-trapdoors-1.0.3-mc1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 381953,
+          "name": "Pigstep",
+          "version": {
+            "id": 2951925,
+            "name": "1.12",
+            "metadata": {
+              "sha1": "1eb2a9809d9d650264d547a50d15fb19052fce43",
+              "size": 4835065,
+              "path": "mods/pigstep-1.12.jar",
+              "url": "/mods/381953/2951925/pigstep-1.12.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 221939,
+          "name": "More Player Models",
+          "version": {
+            "id": 2837187,
+            "name": "_1.12.2-(05Dec19)",
+            "metadata": {
+              "sha1": "0305e34d0f6c1375239e6a0dcda0608667e460c9",
+              "size": 939984,
+              "path": "mods/MorePlayerModels_1.12.2-(05Dec19).jar",
+              "url": "/mods/221939/2837187/MorePlayerModels_1.12.2-(05Dec19).jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [
+        {
+          "stateGameElement": "active",
+          "id": -474233446412200,
+          "name": "Hide And Seek _3",
+          "version": {
+            "id": -474233448491600,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Hide And Seek _3"
+              ],
+              "size": 0,
+              "path": "saves/Hide And Seek _3",
+              "url": "saves/Hide And Seek _3"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        }
+      ],
+      "shaderpacks": [
+        {
+          "stateGameElement": "active",
+          "id": 10000043,
+          "name": "Sushi",
+          "version": {
+            "id": 11000431,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ab6c094097165de40af5480abe8825fc85b43f82",
+              "size": 152729,
+              "path": "shaderpacks/Sushi Shader V2 (Chocapic13 edit).zip",
+              "url": "/shaderpacks/10000043/11000431/SushiShaderV2Chocapic13edit.zip"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 9999999,
+              "dependencyType": "required"
+            }
+          ]
+        }
+      ],
+      "forgeVersion": "14.23.5.2860",
+      "gameVersion": "1.12.2",
+      "id": -472107508457601,
+      "name": "1.0"
+    },
+    "userInstall": false,
+    "populateStatus": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.12.2",
+  "skinVersion": true
+}
